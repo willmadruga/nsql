@@ -1,0 +1,8 @@
+{
+ :account ""
+ :email ""
+ :passwd ""
+ :role ""
+ :script-id "customscript_nsql_restlet"
+ :deploy-id "customdeploy_nsql_restlet"
+}

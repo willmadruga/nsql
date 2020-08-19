@@ -1,0 +1,3 @@
+#!/bin/sh
+
+~/src/nsql/bb/nsql.bb "$1" | jq -r | jq
